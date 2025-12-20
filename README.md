@@ -1,1 +1,1 @@
-## Iqraa: Arabic QA and Search Engine (API Service)
+## Iqraa: Arabic QA and Search Engine (FrontEnd)
