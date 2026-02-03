@@ -1,1 +1,4 @@
-## Iqraa: Arabic QA and Search Engine (FrontEnd)
+<br>
+<p align="center"><img src="https://github.com/iimrx/iqraa-landingpage/blob/main/assets/iqraa-small.png" alt="Iqraa Logo"></p>
+<h3 align="center">Iqraa: Arabic QA and Search Engine (FrontEnd)</h3><br>
+
