@@ -1,0 +1,27 @@
+#Issue Type Name
+name: Issue
+#Declaring the branches and types
+on:
+  issues:
+    types: 
+      - "opened"
+#Declaring all jobs and flows
+jobs:
+  issue:
+    name: Issue Opened
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      #Checkout Code
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      #Auto Assignation
+      - name: Auto Assign Issue
+        uses: pozil/auto-assign-issue@v1
+        with:
+            repo-token: ${{ secrets.GITHUB_TOKEN }}
+            assignees: iimrx
+            numOfAssignee: 1
