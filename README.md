@@ -1,6 +1,6 @@
 <br>
 <p align="center"><img src="https://github.com/iimrx/iqraa-landingpage/blob/main/extra/img/iqraa-med.png" alt="Iqraa Logo"></p>
-<h3 align="center">Iqraa: Fatwa QA and Search Engine (FrontEnd)</h3><br>
+<h3 align="center">Iqraa: Fatwa QA and Search Engine</h3><br>
 
 <p align="center">
  <img src="https://github.com/iimrx/iqraa-landingpage/actions/workflows/issue.yml/badge.svg" alt="New Issue">
