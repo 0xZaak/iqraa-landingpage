@@ -1,4 +1,9 @@
 <br>
 <p align="center"><img src="https://github.com/iimrx/iqraa-landingpage/blob/main/extra/img/iqraa-small.png" alt="Iqraa Logo"></p>
-<h3 align="center">Iqraa: Islamic QA and Search Engine (FrontEnd)</h3><br>
+<h3 align="center">Iqraa: Fatwa QA and Search Engine (FrontEnd)</h3><br>
 
+<p align="center">
+ <img src="https://github.com/iimrx/iqraa-landingpage/actions/workflows/issue.yml/badge.svg" alt="New Issue">
+ <img src="https://github.com/iimrx/iqraa-landingpage/actions/workflows/iqraa-static.yml/badge.svg" alt="Frontend Deploy">
+ <img src="https://github.com/iimrx/iqraa-landingpage/actions/workflows/release.yml/badge.svg" alt="Frontend Release">
+</p>
