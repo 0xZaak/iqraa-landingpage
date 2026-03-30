@@ -1,5 +1,5 @@
 #The name of the release
-name: Release v1.0.0
+name: Release v1.0.1
 #Declaring the branches and tags
 on:
   push:
@@ -24,10 +24,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          tag_name: v1.0.0
-          release_name: Iqraa v1.0.0
+          tag_name: v1.0.1
+          release_name: Iqraa v1.0.1
           body: |
             Changes in this Release:
-              - [New] Release New Version v1.0.0
+              - [New] Release new version v1.0.1
+              - [Update] Added new release date
           draft: false
           prerelease: false
