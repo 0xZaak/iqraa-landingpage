@@ -8,7 +8,7 @@ on:
 #Declaring all jobs and flows
 jobs:
   release:
-    name: Release v1.0.0
+    name: Release v1.0.1
     runs-on: ubuntu-latest
     permissions:
       contents: read
